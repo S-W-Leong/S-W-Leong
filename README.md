@@ -15,15 +15,14 @@ I spend most of my time building things with LLMs, stuff like context systems, m
 
 ---
 
-### stack
+### Stack
 
 `Python` `TypeScript` `Node.js` `FastAPI` `Next.js`  
-`Claude API` `OpenAI` `LangChain` `RAG / vector DBs`  
-`Supabase` `PostgreSQL` `Docker` `GCP`
+`Supabase` `PostgreSQL` `Docker` `AWS Cloud`
 
 ---
 
-### find me
+### Find me
 
 - LinkedIn: [Shi Wei Leong](https://www.linkedin.com/in/leong-shi-wei)
 - Email: [leongshiwei0@gmail.com](mailto:leongshiwei0@gmail.com)
