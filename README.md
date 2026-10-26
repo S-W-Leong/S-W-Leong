@@ -1,37 +1,25 @@
-# Hello, I'm Shi Wei
+<p align="center">
+  <img src="assets/hero.svg" width="1000" alt="Shi Wei — building, learning, asking questions.">
+</p>
 
+<p align="center">
+  <a href="#questions-that-keep-me-curious"><img src="https://img.shields.io/badge/AI_%2F_ML-7C3AED?style=for-the-badge" alt="Interested in AI and machine learning"></a>
+  <a href="#questions-that-keep-me-curious"><img src="https://img.shields.io/badge/AI_for_Science-0D9488?style=for-the-badge" alt="Interested in AI for Science"></a>
+  <a href="#lets-connect"><img src="https://img.shields.io/badge/Open_to_collaborate-F4C95D?style=for-the-badge" alt="Open to research collaborations and engineering opportunities"></a>
+</p>
+
+<p align="center">
 <picture>
-  <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=monospace&amp;size=16&amp;duration=3200&amp;pause=1600&amp;color=70B8AE&amp;width=400&amp;height=76&amp;multiline=true&amp;groups=2,1,2&amp;lines=There%E2%80%99s+too+much+left;to+discover.;Building%2C+learning%2C+asking+questions.;Exploring+how+AI+can;expand+human+capability.">
-  <source media="(max-width: 480px)" srcset="https://readme-typing-svg.demolab.com?font=monospace&amp;size=16&amp;duration=3200&amp;pause=1600&amp;color=26766F&amp;width=400&amp;height=76&amp;multiline=true&amp;groups=2,1,2&amp;lines=There%E2%80%99s+too+much+left;to+discover.;Building%2C+learning%2C+asking+questions.;Exploring+how+AI+can;expand+human+capability.">
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=monospace&amp;size=18&amp;duration=4200&amp;pause=1600&amp;color=70B8AE&amp;width=660&amp;height=40&amp;lines=There%E2%80%99s+too+much+left+to+discover.;Building%2C+learning%2C+asking+questions.;Exploring+how+AI+can+expand+human+capability.">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&amp;size=18&amp;duration=4200&amp;pause=1600&amp;color=26766F&amp;width=660&amp;height=40&amp;lines=There%E2%80%99s+too+much+left+to+discover.;Building%2C+learning%2C+asking+questions.;Exploring+how+AI+can+expand+human+capability." width="660" alt="There’s too much left to discover. Building, learning, asking questions. Exploring how AI can expand human capability.">
+  <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=monospace&amp;center=true&amp;size=16&amp;duration=3200&amp;pause=1600&amp;color=70B8AE&amp;width=400&amp;height=76&amp;multiline=true&amp;groups=2,1,2&amp;lines=There%E2%80%99s+too+much+left;to+discover.;Building%2C+learning%2C+asking+questions.;Exploring+how+AI+can;expand+human+capability.">
+  <source media="(max-width: 480px)" srcset="https://readme-typing-svg.demolab.com?font=monospace&amp;center=true&amp;size=16&amp;duration=3200&amp;pause=1600&amp;color=26766F&amp;width=400&amp;height=76&amp;multiline=true&amp;groups=2,1,2&amp;lines=There%E2%80%99s+too+much+left;to+discover.;Building%2C+learning%2C+asking+questions.;Exploring+how+AI+can;expand+human+capability.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=monospace&amp;center=true&amp;size=18&amp;duration=4200&amp;pause=1600&amp;color=70B8AE&amp;width=660&amp;height=40&amp;lines=There%E2%80%99s+too+much+left+to+discover.;Building%2C+learning%2C+asking+questions.;Exploring+how+AI+can+expand+human+capability.">
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&amp;center=true&amp;size=18&amp;duration=4200&amp;pause=1600&amp;color=26766F&amp;width=660&amp;height=40&amp;lines=There%E2%80%99s+too+much+left+to+discover.;Building%2C+learning%2C+asking+questions.;Exploring+how+AI+can+expand+human+capability." width="660" alt="There’s too much left to discover. Building, learning, asking questions. Exploring how AI can expand human capability.">
 </picture>
+</p>
 
 CS student based in Malaysia. Got distracted by agentic AI somewhere along the way and haven't really recovered.
 
 I build applications and systems with LLMs, with a particular interest in agents, context, and memory. Alongside that, I'm learning how intelligence works—from machine learning and neural networks to the questions that draw me toward neuroscience.
-
-## Selected builds
-
-### [Lostopedia](https://github.com/S-W-Leong/lostopedia)
-
-A lost-and-found platform helping people recover their belongings. **2,000+ registered accounts · 90+ items recovered · zero infrastructure cost.**
-
-I'm the primary developer, with contributions from two friends. Built most of the application, from the user experience to the backend.
-
-`Next.js` `TypeScript` `Supabase` · [Live site ↗](https://lostopedia.com) · [Source](https://github.com/S-W-Leong/lostopedia)
-
-### [E-Com67](https://github.com/S-W-Leong/E-Com67)
-
-A serverless e-commerce platform on AWS with integrated AI agents for customer support and admin insights. I architected the entire system, including its event-driven services and agent integrations.
-
-`AWS` `Python` `Bedrock` `Strands Agents` · [Source](https://github.com/S-W-Leong/E-Com67)
-
-### [Complaint classification](https://github.com/S-W-Leong/complaint-classification)
-
-An NLP study comparing TF-IDF-based classical models with DistilBERT for complaint urgency classification. I owned the full implementation and model comparison, including held-out evaluation, error analysis, and a Streamlit triage prototype.
-
-`Python` `scikit-learn` `DistilBERT` `Streamlit` · [Source & results](https://github.com/S-W-Leong/complaint-classification)
 
 ## Questions that keep me curious
 
@@ -48,27 +36,31 @@ Building my foundations in **machine learning, deep learning, and neural network
 
 ## Tools I work with
 
-![Python](https://img.shields.io/badge/Python-30363D?style=flat&logo=python&logoColor=70B8AE)
-![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat&logo=typescript&logoColor=70B8AE)
-![Node.js](https://img.shields.io/badge/Node.js-30363D?style=flat&logo=nodedotjs&logoColor=70B8AE)
-![FastAPI](https://img.shields.io/badge/FastAPI-30363D?style=flat&logo=fastapi&logoColor=70B8AE)
-![Next.js](https://img.shields.io/badge/Next.js-30363D?style=flat&logo=nextdotjs&logoColor=70B8AE)
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,nextjs,fastapi,postgres,supabase,docker,aws&amp;theme=dark&amp;perline=8" width="440" alt="Python, TypeScript, Next.js, FastAPI, PostgreSQL, Supabase, Docker, and AWS"></a>
+</p>
 
-![Supabase](https://img.shields.io/badge/Supabase-30363D?style=flat&logo=supabase&logoColor=70B8AE)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat&logo=postgresql&logoColor=70B8AE)
-![Docker](https://img.shields.io/badge/Docker-30363D?style=flat&logo=docker&logoColor=70B8AE)
-![AWS](https://img.shields.io/badge/AWS-30363D?style=flat&logoColor=70B8AE)
+## Selected builds
+
+- **[Lostopedia](https://github.com/S-W-Leong/lostopedia)** — Lost-and-found platform. **2,000+ registered accounts · 90+ items recovered · zero infrastructure cost.** [Live ↗](https://lostopedia.com)
+- **[E-Com67](https://github.com/S-W-Leong/E-Com67)** — AWS e-commerce with AI agents; architected end to end.
+- **[Complaint classification](https://github.com/S-W-Leong/complaint-classification)** — Classical ML vs. DistilBERT for complaint urgency.
 
 ## Let's connect
 
 Open to **research collaborations and engineering opportunities** involving AI/ML and useful real-world systems.
 
-[LinkedIn](https://www.linkedin.com/in/leong-shi-wei) · [Email](mailto:leongshiwei0@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/leong-shi-wei"><img src="assets/badges/linkedin.svg" alt="Connect with Shi Wei on LinkedIn"></a>
+  <a href="mailto:leongshiwei0@gmail.com"><img src="assets/badges/email.svg" alt="Email Shi Wei"></a>
+</p>
 
 ---
 
+<p align="center">
 <a href="https://github.com/egorthinks/git-bonsai">
   <img src="assets/bonsai/bonsai.gif" width="240" alt="A pixel-art bonsai grown from my GitHub activity, swaying in the wind.">
 </a>
+</p>
 
-<sub>A little tree growing alongside my work. Made with <a href="https://github.com/egorthinks/git-bonsai">Git Bonsai</a>.</sub>
+<p align="center"><sub>A little tree growing alongside my work. Made with <a href="https://github.com/egorthinks/git-bonsai">Git Bonsai</a>.</sub></p>
