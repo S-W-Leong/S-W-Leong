@@ -40,6 +40,14 @@ Building my foundations in **machine learning, deep learning, and neural network
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,nextjs,fastapi,postgres,supabase,docker,aws&amp;theme=dark&amp;perline=8" width="440" alt="Python, TypeScript, Next.js, FastAPI, PostgreSQL, Supabase, Docker, and AWS"></a>
 </p>
 
+<p align="center">
+  <a href="https://numpy.org/"><img src="assets/tools/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy"></a>
+  &nbsp;
+  <a href="https://pandas.pydata.org/"><img src="assets/tools/pandas.svg" width="48" height="48" alt="pandas" title="pandas"></a>
+  &nbsp;
+  <a href="https://pytorch.org/"><img src="assets/tools/pytorch.svg" width="48" height="48" alt="PyTorch" title="PyTorch"></a>
+</p>
+
 ## Selected builds
 
 - **[Lostopedia](https://github.com/S-W-Leong/lostopedia)** — Lost-and-found platform. **2,000+ registered accounts · 90+ items recovered · zero infrastructure cost.** [Live ↗](https://lostopedia.com)
