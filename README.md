@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="#questions-that-keep-me-curious"><img src="https://img.shields.io/badge/AI_%2F_ML-7C3AED?style=for-the-badge" alt="Interested in AI and machine learning"></a>
-  <a href="#questions-that-keep-me-curious"><img src="https://img.shields.io/badge/AI_for_Science-0D9488?style=for-the-badge" alt="Interested in AI for Science"></a>
-  <a href="#lets-connect"><img src="https://img.shields.io/badge/Open_to_collaborate-F4C95D?style=for-the-badge" alt="Open to research collaborations and engineering opportunities"></a>
+  <a href="https://www.linkedin.com/in/leong-shi-wei"><img src="assets/badges/linkedin.svg" alt="Connect with Shi Wei on LinkedIn"></a>
+  <a href="mailto:leongshiwei0@gmail.com"><img src="assets/badges/email.svg" alt="Email Shi Wei"></a>
+  <a href="https://x.com/_shi_weii"><img src="assets/badges/x.svg" alt="Follow Shi Wei on X"></a>
 </p>
 
 <p align="center">
@@ -57,11 +57,6 @@ Building my foundations in **machine learning, deep learning, and neural network
 ## Let's connect
 
 Open to **research collaborations and engineering opportunities** involving AI/ML and useful real-world systems.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/leong-shi-wei"><img src="assets/badges/linkedin.svg" alt="Connect with Shi Wei on LinkedIn"></a>
-  <a href="mailto:leongshiwei0@gmail.com"><img src="assets/badges/email.svg" alt="Email Shi Wei"></a>
-</p>
 
 ---
 
