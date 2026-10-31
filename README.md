@@ -19,7 +19,7 @@
 
 CS student based in Malaysia. Got distracted by agentic AI somewhere along the way and haven't really recovered.
 
-I build applications and systems with LLMs, with a particular interest in agents, context, and memory. Alongside that, I'm learning how intelligence works—from machine learning and neural networks to the questions that draw me toward neuroscience.
+I build applications and systems involving LLMs, with a particular interest in agents, context, and memory. Alongside that, I'm learning how intelligence works, from machine learning and neural networks to the questions that draw me toward neuroscience.
 
 ## Questions that keep me curious
 
