@@ -48,16 +48,6 @@ Building my foundations in **machine learning, deep learning, and neural network
   <a href="https://pytorch.org/"><img src="assets/tools/pytorch.svg" width="48" height="48" alt="PyTorch" title="PyTorch"></a>
 </p>
 
-## Selected builds
-
-- **[Lostopedia](https://github.com/S-W-Leong/lostopedia)** — Lost-and-found platform. **2,000+ registered accounts · 90+ items recovered · zero infrastructure cost.** [Live ↗](https://lostopedia.com)
-- **[E-Com67](https://github.com/S-W-Leong/E-Com67)** — AWS e-commerce with AI agents; architected end to end.
-- **[Complaint classification](https://github.com/S-W-Leong/complaint-classification)** — Classical ML vs. DistilBERT for complaint urgency.
-
-## Let's connect
-
-Open to **research collaborations and engineering opportunities** involving AI/ML and useful real-world systems.
-
 ---
 
 <p align="center">
